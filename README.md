@@ -1,8 +1,4 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+#BackgroundColor-changerApp-in-REACT
+## REACT + TAILWINDCSS 
+![Background-color-changer](https://github.com/AnasNajmi/BackgroundColor-changerApp-in-REACT/assets/127054270/b87aac1d-9ddd-47ce-ad3b-4ba28c654f0c)
+*Use usestate Hook with callback to each button for different color
